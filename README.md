@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Marcelo Space
+# Sobre o projeto
+Link para a demo https://marcelo-space.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Lidando com arquivos estáticos utilizando React, um site onde mostra algumas fotos tiradas da galáxia.
 
-## Available Scripts
+Aprimorando meu React e tendo primeiro contato com SASS, uma extensão do CSS.
 
-In the project directory, you can run:
+## Layout
+![telatopo](https://user-images.githubusercontent.com/51996663/200634676-47534b0a-e67b-464c-846b-cbc5d8b069ff.png)
+![telaimagens](https://user-images.githubusercontent.com/51996663/200636409-609e7d35-ed65-4469-93d7-938afb2ae1f2.png)
+![telafinal](https://user-images.githubusercontent.com/51996663/200636658-cd04cb1e-3295-45ba-911e-12af66d5fe9a.png)
+![telagalaxias](https://user-images.githubusercontent.com/51996663/200636594-afb1a685-940e-4b82-8f3b-a8cc79ad8c62.png)
 
-### `npm start`
+# Tecnologias utilizadas
+- JavaScript
+- React
+- HTML
+- CSS
+- SASS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Implantação
+- Vercel
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Como executar o código
+Pré-requisitos: npm
+```javascript
+# clonar repositório
+git clone https://github.com/Marcelo1201/Space.git
+```
+```javascript
+# entrar na pasta
+cd marcelo-space
+```
+```javascript
+# instalar npm
+npm install
+```
+```javascript
+# executar o projeto
+npm start
+```
 
-### `npm test`
+# Autor
+Marcelo Giacometti
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://www.linkedin.com/in/marcelo-giacometti/
